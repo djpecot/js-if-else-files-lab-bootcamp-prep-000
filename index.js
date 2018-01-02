@@ -8,6 +8,6 @@ module.exports = { name, height
 
 if (name== "Susan"){
   console.log("The name is ballin'")
-  else if (name== "Joe")
+  }else if (name== "Joe"){
   console.log("That name is super legit")
 }
